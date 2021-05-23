@@ -9,7 +9,7 @@ const bot = new Client();
 const ytdl = require("ytdl-core");
 const ytSearch = require('yt-search');
 
-const token = 'ODQ1NjA5OTk1OTIzMDk1NTg3.YKjdrQ.P2RbNqcBcyVKYKCIdGuuZzouozQ';
+const token = 'I guess this part should be secure';
 
 const PREFIX = '!';
 
